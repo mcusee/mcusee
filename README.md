@@ -2,7 +2,21 @@
 
 ### A passionate Shell developer
 
+<p align="center">
+  <a href="https://t.me/+6lVxjVM3ttVmMWM1">
+    <img src="https://img.shields.io/badge/Telegram-加入讨论群组-blue.svg?logo=telegram&style=for-the-badge" alt="Telegram" height="40">
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenWrt-X86--64位-32C955.svg?logo=openwrt" alt="Platform">
+  <a href="https://github.com/mcusee/OpenWrt-build/actions/workflows/build.yml">
+    <img src="https://github.com/mcusee/OpenWrt-build/actions/workflows/build.yml/badge.svg" alt="Build Status">
+  </a>
+  <a href="https://github.com/coolsnowwolf/lede">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-red.svg" alt="License">
+  </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://github.com/mcusee">
